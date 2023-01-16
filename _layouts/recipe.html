@@ -44,7 +44,9 @@ layout: default
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
-        <li>{{ component | markdownify }}</li>
+        {% assign reci = page.recipes | where: 'title', component.title | first %}
+        
+        <li>{{ reci | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
