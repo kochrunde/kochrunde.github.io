@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Pizza"
 image: default.jpeg
-imagecredit: freefoodphotos.com
+imagecredit: https://freefoodphotos.com
 tags: italienisch
 
 ingredients:

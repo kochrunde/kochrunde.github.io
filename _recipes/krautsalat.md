@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Krautsalat"
 image: default.jpeg
-imagecredit: freefoodphotos.com
+imagecredit: https://freefoodphotos.com
 tags: Salat
 
 ingredients:
