@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pizza"
-image: 
+image: default.png
 imagecredit: 
 tags: italienisch
 

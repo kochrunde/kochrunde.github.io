@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "M'gaddara"
-image: 
+image: default.png
 imagecredit: 
 tags: syrisch
 

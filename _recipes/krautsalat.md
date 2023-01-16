@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Krautsalat"
-image: 
+image: default.png
 imagecredit: 
 tags: Salat
 
