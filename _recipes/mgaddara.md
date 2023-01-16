@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "M'gaddara"
-image: default.png
-imagecredit: 
+image: default.jpeg
+imagecredit: freefoodphotos.com
 tags: syrisch
 
 ingredients:
