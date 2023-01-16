@@ -1,13 +1,12 @@
 # Site settings
-title: Chowdown
+title: Kochrunden Rezepte
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
-language: "en"
+baseurl: "https://kochrunde.github.io"
+language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+github_username:  tdankert
 
 # Build settings
 markdown: kramdown
