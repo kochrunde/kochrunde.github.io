@@ -29,7 +29,7 @@ directions:
     - Tomaten
 - Optional eine Schicht Kartoffeln einfügen
 - Passierten Tomaten in einer Schüssel mit 3 gestampften Knoblauchzehen, 1 TL Salz, 2 EL Zitronensaft und 8 EL Olivenöl verrühren und über das Gemüse gießen, bis die Form bedeckt ist.
-- Im vorgeheizten Ofen bei 200 Grad Umluft oder 180 Grad Ober-/Unterhitze für ca. 70 Minuten backen.
+- Im vorgeheizten Ofen bei 200 °C Umluft oder 180 °C Ober-/Unterhitze für ca. 70 Minuten backen.
 - Dazu Brot oder Reis.
 
 ---
