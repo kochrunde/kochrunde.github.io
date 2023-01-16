@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rezepteseite online"
-author: timo
+author: tdankert
 ---
 
-Yeah! Rezepte Seite
+Yeah! Rezepte Seite!
