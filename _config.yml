@@ -2,7 +2,8 @@
 title: Kochrunden Rezepte
 email: github@tdankert.de
 description: The plain text recipe database for hackers
-baseurl: "https://kochrunde.github.io"
+siteurl: "https://kochrunde.github.io"
+baseurl: "/"
 language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
