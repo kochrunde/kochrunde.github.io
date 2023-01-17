@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Papas Arrugadas"
-image: default.jpeg
-imagecredit: https://freefoodphotos.com
+image: papasArrugadas.jpg
+imagecredit: https://nyamsaavedra.blogspot.com/2011/06/papas-arrugadas-i-mojo-picon.html
 category: Beilagen
 tags: kanarisch
 
