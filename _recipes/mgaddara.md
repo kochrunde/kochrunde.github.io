@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "M'gaddara"
-image: default.jpeg
-imagecredit: https://freefoodphotos.com
+image: mgaddara.jpeg
+imagecredit: https://www.kochwiki.org/wiki/Datei:Mujaddara.jpg
 tags: syrisch
 
 ingredients:
@@ -13,7 +13,7 @@ ingredients:
 - 100 ml Olivenöl
 - Salz
 - Pfeffer
-- optional: Zimt
+- Zimt (optional)
 
 directions:
 - Die Zwiebeln in Ringe schneiden und mit viel Öl in eine große Pfanne geben. Bei niedriger Hitze langsam andünsten. Immer wieder rühren bis sie sehr weich sind und eine goldbraune Farbe annehmen. Dies dauert etwa 30 bis 45 Minuten (nicht scharf anbraten).
