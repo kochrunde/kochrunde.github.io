@@ -12,6 +12,7 @@ ingredients:
 
 components:
 - Pizzateig
+- Cashew Creme
 
 directions:
 - Belegen
