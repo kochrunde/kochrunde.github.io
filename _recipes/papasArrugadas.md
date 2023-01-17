@@ -4,6 +4,7 @@ layout: recipe
 title:  "Papas Arrugadas"
 image: default.jpeg
 imagecredit: https://freefoodphotos.com
+category: Beilagen
 tags: kanarisch
 
 ingredients:

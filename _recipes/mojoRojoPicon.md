@@ -4,6 +4,7 @@ layout: recipe
 title:  "Mojo Rojo Picon"
 image: mojoRojoPicon.jpeg
 imagecredit: https://olvidelasal.blogspot.com/2013/09/mojo-picon-rojo.html
+category: sauce
 tags: kanarisch, Sauce
 
 ingredients:

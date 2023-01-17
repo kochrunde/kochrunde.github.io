@@ -4,6 +4,7 @@ layout: recipe
 title:  "Hafermilch"
 image: default.jpeg
 imagecredit: https://freefoodphotos.com
+category: basics
 tags: basics
 
 ingredients:
