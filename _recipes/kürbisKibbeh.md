@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Hafermilch"
+title:  "Kürbis-Kibbeh"
 image: default.jpeg
 imagecredit: https://freefoodphotos.com
 category: basics
