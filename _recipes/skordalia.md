@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Skordalia"
-image: default.jpeg
-imagecredit: https://freefoodphotos.com
+image: skordalia.jpeg
+imagecredit: https://github.com/tdankert
 tags: griechisch, dip
 
 ingredients:
@@ -24,3 +24,5 @@ directions:
 ---
 
 Griechisches Kartoffelpüree. Aber halt würziger und kann auch als Dip verwendet werden.
+
+Ich hab hier 'nur' 4 Knoblauchzehen verwendet. Das ist krass! Superlecker, aber krass! Empfiehlt sich auf jeden Fall, das nicht so wie bekannten Kartoffelbrei reinzuschaufeln, sondern tatsächlich aufs Brot zu schmieren.
