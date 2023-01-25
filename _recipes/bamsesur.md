@@ -24,7 +24,6 @@ directions:
 - Salz hinzufügen und weitere 6 Minuten kneten.
 - Der Teig sollte sehr locker sein! Eine Plastikbox leicht einölen und den Teig "gießen" und mit einem Deckel abdecken.
 - Lassen Sie den Teig 120 Minuten bei Raumtemperatur aufgehen, nach der Hälfte der Zeit "falten" Sie den Teig in das Glas.
-- När degen jäst klart så mjöla bordet lätt med vetemjöl och kubba försiktigt degen i önskad storlek.
 - Wenn der Teig fertig ist, den Tisch leicht mit Weizenmehl bemehlen und den Teig vorsichtig in die gewünschte Größe formen
 - Dann das Brot umdrehen, damit das Mehl nach oben kommt, wenn es gebacken werden soll.
 - Backe das Brot. Lassen Sie den Ofen bei ca. 250 ° C vorheizen. Wenn das Brot eingelegt wird, drehen Sie es sofort nach dem Backen auf ca. 220 ° C zu schöner Farbe.
