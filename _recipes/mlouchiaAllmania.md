@@ -2,8 +2,7 @@
 
 layout: recipe
 title:  "Mlouchia Allmania"
-image: default.jpeg
-imagecredit: https://freefoodphotos.com
+image: mlouchiaAllmania.jpg
 tags: syrisch
 
 ingredients:
