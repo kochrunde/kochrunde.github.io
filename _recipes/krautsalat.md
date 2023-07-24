@@ -2,8 +2,7 @@
 
 layout: recipe
 title:  "Krautsalat"
-image: default.jpeg
-imagecredit: https://freefoodphotos.com
+image: krautsalat.jpeg
 category: Salat
 tags: Salat
 
